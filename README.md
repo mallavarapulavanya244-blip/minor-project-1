@@ -45,6 +45,26 @@ It is built using CMOS gates like INV, NAND, NOR, XOR.
 
 All test cases passed.
 
+
+**Result:** All outputs matched with expected values. No errors in simulation.
+
+### 2. Waveform Output
+
+![Waveform Output](waveform(1).png)
+
+Waveform shows the change in Sum and Cout for different values of A, B and Cin.
+When A=1111 and B=1111 and Cin=1, Sum becomes 1111 and Cout becomes 1, which is correct.
+
+### 3. Conclusion
+
+The 4-bit Adder using CMOS Logic is working correctly.
+All 5 test cases are passed successfully in EDA Playground simulation.
+
+## Author
+
+**Mallavarapu Lavanya**
+B.Tech - Electronics and Communication
+Minor Project 1 - VLSI / Digital Design Internship
 ## Author
 
 **Mallavarapu Lavanya**
